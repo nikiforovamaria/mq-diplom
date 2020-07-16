@@ -466,6 +466,7 @@
         margin-top: 290px;
         margin-bottom: 225px;
         width: 85%;
+        max-width: 1530px;
     }
     .heading_bottom {
         margin-left: 21%;
