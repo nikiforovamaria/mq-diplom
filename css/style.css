@@ -804,6 +804,7 @@
 
 .section_players {
     position: relative;
+    overflow: hidden;
 }
 
 .player_picture {
